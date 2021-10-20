@@ -1,6 +1,6 @@
 # Excessive Tab Manager
 
-Minimizing clutter on your web browser
+Minimizing clutter on  web browser
 
 ## Version 1.0 to do
 
@@ -11,6 +11,8 @@ Max tabs = 4 <br />
 Tabs self delete after mins = 10 <br /> 
 Disable bookmarking option <br /> 
 Auto Site blocking option ( if access 3 times a day bring up promt) <br /> 
+Disable Javascript <br />
+Disable all images <br />
 
 ## Next features
 
@@ -28,3 +30,9 @@ Time tracking report sent to an email ( you/ team) <br />
 ## Usage
 
 ## References
+
+[CITguy](https://github.com/CITguy/toggle-grayscale)
+[google](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
+[necolas](https://github.com/necolas/chrome-tab-limit)
+
+
